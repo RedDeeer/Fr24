@@ -2,7 +2,7 @@ public class Main {
   public static void main(String[] args) {
     Integer myInt = 512;
     Double myDouble = 5.9948;
-    Character myChar = 'A';
+    Character myChar = 'B';
     System.out.println(myInt);
     System.out.println(myDouble);
     System.out.println(myChar);
