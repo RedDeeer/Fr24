@@ -1,7 +1,7 @@
 public class Main {
   public static void main(String[] args) {
     Integer myInt = 512;
-    Double myDouble = 5.8;
+    Double myDouble = 5;
     Character myChar = 'BPPS';
     System.out.println(myInt);
     System.out.println(myDouble);
