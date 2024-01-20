@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    Integer myInt = 502;
+    Integer myInt = 5702;
     Double myDouble = 566;
     Character myChar = 'BS';
     System.out.println(myInt);
