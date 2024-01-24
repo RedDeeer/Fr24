@@ -3,7 +3,7 @@ public class Main {
     Integer myInt = 502;
     Double myDouble = 5614;
     Character myChar = 'BS';
-    System.out.println(myInt);
+    System.out.println(myIt);
     System.out.println(myDouble);
     System.out.println(myChar);
   }
