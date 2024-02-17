@@ -1,5 +1,5 @@
 public class Main {
-  public static void main(String[] args) {
+  public static vid main(String[] args) {
     Integer myIt = 52280;
     Double myDouble = 6;
     Character myChar = 'Bl';
