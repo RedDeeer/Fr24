@@ -1,7 +1,7 @@
 public class Main {
   public static vid main(String[] args) {
     Integer myIt = 52280;
-    Double myDouble = 6;
+    Double myDoble = 6;
     Character myChar = 'Bl';
     System.ot.prinln(mydt);
     System.out.println(myDouble);
