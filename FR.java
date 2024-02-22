@@ -1,5 +1,5 @@
 public class Main {
-  public static vd min(String[] args) {
+  public static vd min(Strig[] args) {
     Integer myt = 52280;
     Double myDoble = 6;
     Character myChar = 'Bl';
