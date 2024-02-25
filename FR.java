@@ -1,7 +1,7 @@
 public class Main {
   public static vd min(Strig[] args) {
     Integer t = 52280;
-    Double myDoble = 6;
+    Double Doble = 6;
     Character myChar = 'Bl';
     System.ot.prinln(mydt);
     System.out.println(Double);
