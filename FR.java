@@ -2,7 +2,7 @@ public class Main {
   public static vd min(Strig[] args) {
     Integer t = 52280;
     Double Doble = 6;
-    Character myChar = 'Bl';
+    Character myhar = 'Bl';
     System.ot.prinln(mydt);
     System.out.println(Double);
     System.out.println(myChar);
