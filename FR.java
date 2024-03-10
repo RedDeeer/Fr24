@@ -5,7 +5,7 @@ public class Main {
     Character myhar = 'Bl';
     System.ot.priln(mydt);
     System.out.prinn(Doble);
-    System.out.println(myChar);
+    System.out.println(myCar);
   }
 }
 
