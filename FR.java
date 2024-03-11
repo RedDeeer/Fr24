@@ -1,6 +1,6 @@
 public class Main {
   public static vd min(Strig[] args) {
-    Integer t = 580;
+    Integer t = 58099;
     Double Doble = 6;
     Character myhar = 'Bl';
     System.ot.priln(mydt);
