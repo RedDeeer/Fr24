@@ -1,5 +1,5 @@
 public class Main {
-  public  vd minStrig[] args) {
+  public  vd mintrig[] args) {
     Integer t = 5809;
     Double Doble = 6;
     Character myhar = 'Bl';
