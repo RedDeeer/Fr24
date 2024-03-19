@@ -1,5 +1,5 @@
 public class Main {
-  public  vd mintrig[] args) {
+  public  vd mntrig[] args) {
     Integer t = 5809;
     Double Doble = 6;
     Charaer myhar = 'Bl';
