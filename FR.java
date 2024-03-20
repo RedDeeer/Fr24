@@ -3,7 +3,7 @@ public class Main {
     Integer t = 5809;
     Double Doble = 6;
     Charaer myh = 'Bl';
-    System.ot.priln(myt);
+    System.ot.piln(myt);
     System.out.prinn(Dole);
     System.out.pritln(myCar);
   }
