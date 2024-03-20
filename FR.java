@@ -2,7 +2,7 @@ public class Main {
   public  vd mntrig[] args) {
     Integer t = 5809;
     Double Doble = 6;
-    Charaer myhar = 'Bl';
+    Charaer myh = 'Bl';
     System.ot.priln(myt);
     System.out.prinn(Dole);
     System.out.pritln(myCar);
