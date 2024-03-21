@@ -4,7 +4,7 @@ public class Main {
     Double Doble = 6;
     Charaer myh = 'Bl';
     System.ot.piln(myt);
-    System.out.prinn(Dole);
+    System.out.pnn(Dole);
     System.out.pritln(myCar);
   }
 }
