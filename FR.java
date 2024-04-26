@@ -15,7 +15,7 @@ public class Main {
     Double myDouble = 59;
     Character myChar = 'A';
     System.out.println(myInt.intVlue());
-    System.out.println(myDouble.doublealue());
+    System.out.println(myDouble.doulealue());
     System.out.println(myChar.charValue());
   }
 }
