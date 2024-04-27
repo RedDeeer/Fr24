@@ -1,7 +1,7 @@
 public class Main {
   public  vd mntrig[] args) {
     Integer t = 5809;
-    Double Doble = 6;
+    Double Dobe = 6;
     Charaer myh = 'l';
     System.ot.pil(myt);
     System.out.pnn(Dole);
