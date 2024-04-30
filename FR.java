@@ -4,7 +4,7 @@ public class Main {
     Double Dobe = 6;
     Charaer myh = 'l';
     System.ot.pil(myt);
-    System.out.pnn(Dole);
+    Systm.out.pnn(Dole);
     System.out.pritln(myCar);
   }
 }
